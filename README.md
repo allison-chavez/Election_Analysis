@@ -32,6 +32,8 @@ Colorado Board of Elections employee has given me the following tasks to complet
     - Diana DeGette won the election
     - with a total vote count of 272,892
     - with a winning percentage of 73.8% 
-![https://github.com/allison-chavez/Election_Analysis/blob/main/Resources/PyPoll_results.png]
+![alt text](https://github.com/allison-chavez/Election_Analysis/blob/main/Resources/PyPoll_results.png)
+
+
 ## Summary of Election Audit
 The election audit script is efficient and can be manipulated in numerous ways that can be used in any election. For one, the variables could be changed in order to find other specific information, change it from counties to states if you are looking at a national election. As well as using this script to look at other small elections, in schools, work, programs etc. The variables would just need to be changed accordingly and vote counts could be properly found. Another way is that if more information is provided you can add more variables to find election results, such as demographics, that can be used to get a more exhaustive analysis. 
