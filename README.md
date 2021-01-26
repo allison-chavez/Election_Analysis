@@ -32,6 +32,10 @@ Colorado Board of Elections employee has given me the following tasks to complet
     - Diana DeGette won the election
     - with a total vote count of 272,892
     - with a winning percentage of 73.8% 
+    
+ 
+- Election Results
+
 ![alt text](https://github.com/allison-chavez/Election_Analysis/blob/main/Resources/PyPoll_results.png)
 
 
