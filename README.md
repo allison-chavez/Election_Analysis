@@ -14,7 +14,7 @@ Colorado Board of Elections employee has given me the following tasks to complet
 9. Determine the winner of the election.
 
 ## Resources
-. Data Sources: election_results.csv
-. Software: Python 3.7.6
-  Visual Studio Code, 1.51.1
+- Data Sources: election_results.csv
+- Software: Python 3.7.6
+            Visual Studio Code, 1.51.1
 ## Summary
