@@ -16,11 +16,9 @@ Colorado Board of Elections employee has given me the following tasks to complet
 
 ## Resource
 - Data Sources: election_results.csv
-- Software: Python 3.7.6\n
-           Visual Studio Code, 1.51.1
+- Software: Python 3.7.6, Visual Studio Code, 1.51.1
             
 ## Election Audit Results
-#How many votes were cast in this congressional election?
 - A total of 369,711 votes casted
 - County votes:
     - Jefferson recieved 38,855 votes and a total of 10.5% of the votes.
@@ -36,9 +34,5 @@ Colorado Board of Elections employee has given me the following tasks to complet
     - with a total vote count of 272,892
     - with a winning percentage of 73.8% 
 
-
 ## Summary of Election Audit
-=======
-
-
->>>>>>> ee2cb44c35fe7bbbe114f9c4402afb1df0dabcd1
+The election audit script is efficient and can be manipulated in numerous ways that can be used in any election. For one, the variables could be changed in order to find other specific information, change it from counties to states if you are looking at a national election. As well as using this script to look at other small elections, in schools, work, programs etc. The variables would just need to be changed accordingly and vote counts could be properly found. Another way is that if more information is provided you can add more variables to find election results, such as demographics, that can be used to get a more exhaustive analysis. 
