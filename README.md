@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit Project
-Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressioal election. 
+Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressioal election. With the help of Tom I was able to run a python script in vs code that allowed me do the following:
 
 1. Collect the data we needed for analysis.
 2. Calculate the total number of votes casted.
@@ -16,11 +16,14 @@ Colorado Board of Elections employee has given me the following tasks to complet
 ## Resources
 - Data Sources: election_results.csv
 - Software: Python 3.7.6
-            Visual Studio Code, 1.51.1
+           * Sub Visual Studio Code, 1.51.1
             
 ## Election Audit Results
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+#How many votes were cast in this congressional election?
+- A total of 369,711 votes casted
+- County votes:
+- Jefferson County recieved 38,855 votes and a total of 10.5% of the votes
+- Denver County received 30
 Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
