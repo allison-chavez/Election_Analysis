@@ -16,7 +16,7 @@ Colorado Board of Elections employee has given me the following tasks to complet
 ## Resources
 - Data Sources: election_results.csv
 - Software: Python 3.7.6
-           - Sub Visual Studio Code, 1.51.1
+           -Sub Visual Studio Code, 1.51.1
             
 ## Election Audit Results
 #How many votes were cast in this congressional election?
