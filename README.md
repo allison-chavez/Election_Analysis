@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Election_Analysis
 
 ## Overview of Election Audit Project
@@ -37,3 +38,7 @@ Colorado Board of Elections employee has given me the following tasks to complet
 
 
 ## Summary of Election Audit
+=======
+
+
+>>>>>>> ee2cb44c35fe7bbbe114f9c4402afb1df0dabcd1
